@@ -42,7 +42,7 @@ This is a personal portfolio website built with HTML and CSS to showcase my skil
 
 ## Live Demo
 
-[Click here to view the portfolio](https://chienyem-portfolio.netlify.app/)
+[Click here to view my portfolio](https://chienyem-portfolio.netlify.app/)
 
 ## Contact
 
