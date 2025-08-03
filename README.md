@@ -8,7 +8,7 @@ This is a personal portfolio website built with HTML and CSS to showcase my skil
 - About Me - profile photo and a brief bio
 - Tools & Skills
 - Education - with a downloadable CV
-- Intrests
+- Interests
 - Projects - with links and short descriptions
 - Contact - with links to my email and my Linkedin
 - Footer
