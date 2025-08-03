@@ -47,7 +47,7 @@ This is a personal portfolio website built with HTML and CSS to showcase my skil
 ## Contact
 
 Feel free to connect with me for collaboration or feedback.
-- Email: [your-nzekwuchienyem@gmail.com]
+- Email: [nzekwuchienyem@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/chienyem-nzekwu]
 - GitHub: [https://github.com/dazzlenzekwu1]
 
