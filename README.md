@@ -40,6 +40,10 @@ This is a personal portfolio website built with HTML and CSS to showcase my skil
 - Replace project links and descriptions in the Projects section
 - Edit contact information in the Contact section
 
+## Live Demo
+
+[Click here to view the portfolio](https://chienyem-portfolio.netlify.app/)
+
 ## Contact
 
 Feel free to connect with me for collaboration or feedback.
