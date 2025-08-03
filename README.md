@@ -4,14 +4,14 @@ This is a personal portfolio website built with HTML and CSS to showcase my skil
 
 ## Sections Included
 
-Header with the navigation menu
-About Me - profile photo and a brief bio
-Tools & Skills
-Education - with a downloadable CV
-Intrests
-Projects - with links and short descriptions
-Contact - with links to my email and my Linkedin
-Footer
+- Header with the navigation menu
+- About Me - profile photo and a brief bio
+- Tools & Skills
+- Education - with a downloadable CV
+- Intrests
+- Projects - with links and short descriptions
+- Contact - with links to my email and my Linkedin
+- Footer
 
 ## Features
 
@@ -32,12 +32,20 @@ Footer
 - `style.css` – Stylesheet
 - `images/` – Profile and logo images
 - `files/` – Downloadable CV
+- `projects/` – links to my projects
 
 ## Customization
 
 - Update your profile picture in `images/profile.jpg`
 - Replace project links and descriptions in the Projects section
 - Edit contact information in the Contact section
+
+## Contact
+
+Feel free to connect with me for collaboration or feedback.
+- Email: [your-nzekwuchienyem@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/chienyem-nzekwu]
+- GitHub: [https://github.com/dazzlenzekwu1]
 
 ## License
 
